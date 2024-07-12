@@ -82,9 +82,6 @@
 [submodule "productcomments"]
 	path = productcomments
 	url = https://github.com/PrestaShop/productcomments.git
-[submodule "autoupgrade"]
-	path = autoupgrade
-	url = https://github.com/PrestaShop/autoupgrade.git
 [submodule "gsitemap"]
 	path = gsitemap
 	url = https://github.com/PrestaShop/gsitemap.git
